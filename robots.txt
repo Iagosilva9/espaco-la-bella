@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iagosilva9.github.io/espaco-la-bella/sitemap.xml
